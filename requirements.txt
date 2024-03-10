@@ -1,4 +1,0 @@
-os
-time
-googlesearch
-colorama
