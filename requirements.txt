@@ -1,0 +1,4 @@
+os
+googlesearch
+colorama
+time
